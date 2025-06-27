@@ -6,6 +6,3 @@ line 5
 line 6
 line 7
 line 8
-
-
-NOW we are going to push this song to our remote
