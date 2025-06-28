@@ -12,7 +12,4 @@ NOW we are going to push this song to our remote
 
 number for feature
 
-2nd feature
-
-Now we test non fast-forward merge 
-test commit in the main branch
+Attack!
